@@ -1,11 +1,11 @@
 
 
-In project using:
--Yii
--Vue3
--TypeScript
--MySQL
--Docker
+In project using: 
+- Yii 
+- Vue3 
+- TypeScript 
+- MySQL 
+- Docker 
 
 <img loading="lazy" width="350px" src="./screen.png" alt="screen png" />
 
