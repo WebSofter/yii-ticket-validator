@@ -12,6 +12,7 @@
     }
   ],
   "compilerOptions": {
+    "types": ["naive-ui/volar"],
     "module": "NodeNext"
   }
 }
