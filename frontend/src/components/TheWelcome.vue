@@ -3,6 +3,7 @@
     <template #icon>
       <DocumentationIcon />
     </template>
+    <br/>
     <template #heading>Сканирование билета</template>
     <qrcode-stream @detect="onDetect"></qrcode-stream>
     <br/>

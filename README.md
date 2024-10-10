@@ -1,3 +1,14 @@
+
+
+In project using:
+-Yii
+-Vue3
+-TypeScript
+-MySQL
+-Docker
+
+<img loading="lazy" width="30px" src="./screen.png" alt="screen png" />
+
 Yii in Docker Template
 ======================
 
