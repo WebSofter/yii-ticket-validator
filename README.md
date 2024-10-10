@@ -7,7 +7,7 @@ In project using:
 -MySQL
 -Docker
 
-<img loading="lazy" width="30px" src="./screen.png" alt="screen png" />
+<img loading="lazy" width="350px" src="./screen.png" alt="screen png" />
 
 Yii in Docker Template
 ======================
